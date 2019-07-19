@@ -23,21 +23,21 @@ I have created web drivers for IE, Firefox and Chrome.
 ### Step 1
 After cloning the repo, you can either just use the already created packaged zip (**recommended**) or create a project template from the project. 
 Once you have a zip file you can then drop this in the _Visual Studio Template Project Folder_.
-Format: ![Step1](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step1_PlaceZippedProject.png)
+![Step1](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step1_PlaceZippedProject.png)
 
 ### Step 2
 Start Visual Studio (_visual studio must be restarted to detect changes_)
 Select to start a new project and use the search bar to search for "Selenium"
-Format: ![Step2](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step2_StartNewProject_LookFor_Selenium.png)
+![Step2](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step2_StartNewProject_LookFor_Selenium.png)
 
 ### Step 3
 Name your project as usual
-Format: ![Step3](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step3_NameNewProject.png)
+![Step3](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step3_NameNewProject.png)
 
 ### Step 4
 You will now be presented with a blank project with all the required nuget packages required for Selenium tests.
 There is also a skelaton structure setup with base code to instantiate web drivers.
-Format: ![Step4](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step4_CheckNugetPackages_InspectBaseClass.png)
+![Step4](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step4_CheckNugetPackages_InspectBaseClass.png)
 
 ### Step 5
 To get started, just create a new code file
@@ -75,4 +75,4 @@ After debugging tests (using the same context menu to run tests), spotted that t
 Changed to use GetAttribute method of Value and then re-ran the tests.
 ![Step12](https://github.com/Squirrel84/SeleniumProjectTemplate/blob/master/Setup_Step_Images/Step12_DiagnoseAndResolveTests.png)
 
-#Enjoy
+# Enjoy
